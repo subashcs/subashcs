@@ -29,10 +29,7 @@ Check out [my portfolio](https://subashcs.com.np).
  <table>
     <tr>
         <td>
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashcs&theme=github-dark-blue" alt="j0sal" />
-        </td>
-        <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=subashcs&theme=github_dark&show_icons=true&locale=en" alt="j0sal" />
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashcs&theme=github-dark-blue" />
         </td>
     </tr>
  </table>
