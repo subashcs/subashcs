@@ -10,11 +10,19 @@
   <a href="https://subashcs.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
 </p>
 
-<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='160' height='160'>
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='60' height='60'>
 
 ## About Me
 
-Hi, I'm Subash Chandra Sapkota! I'm passionate about Web application development, Blockchain, and AI.
+I'm passionate about Web application development, Blockchain, and AI.
+
+### 💼 What I Do
+I specialize in Web and Mobile Application development, and adore building innovative solutions that can bring real value to society. 
+I am fluent in JavaScript and Python programming languages and have hands-on experience with Procedural PHP programming. Moreover, I love to dig into projects in Solidity, Rust, and C++.
+I'm always exploring new technologies and tools to expand my skill set and stay up-to-date with the latest trends in the industry.
+
+### 🤝 Let's Connect
+I'm always open to collaborating on exciting projects and engaging in meaningful discussions. Whether you want to collaborate on a project, discuss a tech-related topic, or simply say hi, feel free to reach out! You can connect with me on Twitter as well.
 
 ## 🛠️ Languages and Tools
 
@@ -26,6 +34,4 @@ Hi, I'm Subash Chandra Sapkota! I'm passionate about Web application development
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subashcs&theme=github-dark-blue" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
