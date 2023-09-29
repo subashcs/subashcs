@@ -6,9 +6,10 @@
 
 ## About Me
 
+<p>
 Hi, I'm Subash Chandra Sapkota! I'm passionate about Web application development, Blockchain, and AI.
 Check out [my portfolio](https://subashcs.com.np).
-
+</p>
 <p align="center">
   <a href="https://stackoverflow.com/users/6259598/subashcs" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" />
   <a href="https://www.leetcode.com/subashcs" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" />
