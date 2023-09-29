@@ -34,4 +34,4 @@ I'm always open to collaborating on exciting projects and engaging in meaningful
 
 ## 📈 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=subashcs&show_icons=true&theme=radical)
