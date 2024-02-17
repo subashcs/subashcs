@@ -22,7 +22,7 @@ I am fluent in JavaScript and Python programming languages and have hands-on exp
 I'm always exploring new technologies and tools to expand my skill set and stay up-to-date with the latest trends in the industry.
 
 ### 🤝 Let's Connect
-I'm always open to collaborating on exciting projects and engaging in meaningful discussions. Whether you want to collaborate on a project, discuss a tech-related topic, or simply say hi, feel free to reach out! You can connect with me on Twitter as well.
+I'm always open to collaborating on exciting projects and engaging in meaningful discussions. Want me to collaborate on a project, discuss a tech-related topic, or simply say hi, feel free to reach out! You can connect with me on Twitter as well.
 
 ## 🛠️ Languages and Tools
 
